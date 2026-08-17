@@ -1,1 +1,1 @@
-# UX-Comparison-Tool
+# Coral-Comparison-Tool
